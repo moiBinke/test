@@ -1,6 +1,8 @@
-                                                          # Back Projet Marché
 
-### Description: Ceci est un projet du groupe VMCO visant à virtualiser les differents points de ventes des produits. 
+#                                                   Back Projet Marché
+
+### Description:
+                Ceci est un projet du groupe VMCO visant à virtualiser les differents points de ventes des produits. 
                 Le projet debuta en janvier 2020. 
 
 ### Pre-requis:
